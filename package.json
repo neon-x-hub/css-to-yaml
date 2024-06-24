@@ -1,0 +1,23 @@
+{
+  "name": "css-to-yaml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cssyaml": "./bin/cli.js"
+  },
+  "keywords": [
+    "css",
+    "yaml",
+    "css-to-yaml"
+  ],
+  "author": "neon-x-hub",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "yaml": "^2.4.5"
+  }
+}
